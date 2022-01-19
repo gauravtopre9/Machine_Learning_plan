@@ -1,4 +1,4 @@
-# Machine Learning Course (Standford) - Coursera 
+# Machine Learning Course (Sandford) - Coursera 
 
 ### Handwritten and programming Assignment Files of Machine Learning Course (coursera) instructed by [Andrew Ng](https://www.linkedin.com/in/andrewyng/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
